@@ -1,0 +1,61 @@
+datalogic
+02-06 15:19:32.979 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:21:10.400 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:21:29.792 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:22:32.947 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:22:59.422 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:24:00.350 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:24:19.983 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:25:19.638 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:25:46.668 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:27:16.697 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:27:28.217 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:28:28.981 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:28:54.735 connesso a:BSSID=7c:95:b1:d1:69:f0
+datalogic
+02-06 15:29:58.450 connesso a:BSSID=7c:95:b1:9b:05:b0
+datalogic
+02-06 15:30:15.726 connesso a:BSSID=7c:95:b1:d1:69:f0
+
+
+
+zebra
+02-06 15:20:53.306 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:21:32.024 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:22:30.706 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:22:59.177 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:23:51.338 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:24:23.786 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:25:26.192 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:26:03.395 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:26:52.452 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:27:32.082 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:28:26.128 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:29:00.220 connesso a:BSSID=7c:95:b1:d1:69:f0
+zebra
+02-06 15:29:51.688 connesso a:BSSID=7c:95:b1:9b:05:b0
+zebra
+02-06 15:30:33.501 connesso a:BSSID=7c:95:b1:d1:69:f0
